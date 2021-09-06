@@ -1,3 +1,4 @@
 ## Autorun Backup Usb
 
-This is a file inside the usb where it runs automatically
+This is an Auto Backup.
+clones disk C: inside the usb where it runs automatically
